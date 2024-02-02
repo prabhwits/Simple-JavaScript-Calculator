@@ -1,0 +1,18 @@
+{
+  "name": "js-calc-wits",
+  "version": "1.0.0",
+  "description": "This is a simple command-line calculator implemented in JavaScript. It takes user input for two numbers and performs various operations based on the provided operation symbol. The calculator supports addition, subtraction, multiplication, division, exponentiation, modulus, closing the calculator, and clearing the current result.",
+  "main": "calculator.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prabhwits/Simple-JavaScript-Calculator.git"
+  },
+  "author": "prabhwits",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prabhwits/Simple-JavaScript-Calculator/issues"
+  },
+  "homepage": "https://github.com/prabhwits/Simple-JavaScript-Calculator#readme"
+}
